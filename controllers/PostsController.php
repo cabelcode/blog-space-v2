@@ -4,7 +4,7 @@ class PostsController extends Controller
 {
     protected $page;
     private array $pageParameter;
-    private $api = 'KIXenYwYcpPK00rNb77yr7wzntCWl4dboZfs03Vo';
+    private $api = '';
 
     public function __construct()
     {
